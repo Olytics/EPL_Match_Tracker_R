@@ -8,6 +8,7 @@ This is the individual assignment version of the EPL Match Tracker implemented i
 - Reactive KPI cards (Total Matches, Win Rate, Average Goals).
 - A ggplot comparing average goals by venue (Home vs Away).
 - A data table of filtered matches.
+
 Built with: R · Shiny · ggplot 
 
 ### Live Dashboard
