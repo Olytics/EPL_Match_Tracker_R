@@ -1,0 +1,17 @@
+{
+  "Name": "EPL_Match_Tracker_R",
+  "Type": "shiny-app",
+  "R": {
+    "Version": ""
+  },
+  "Packages": {
+    "shiny": "*",
+    "DT": "*",
+    "ggplot2": "*",
+    "dplyr": "*",
+    "lubridate": "*",
+    "tidyr": "*"
+  },
+  "Repository": "https://cran.rstudio.com",
+  "GeneratedBy": "dependencies.R"
+}
