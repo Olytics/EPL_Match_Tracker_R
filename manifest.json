@@ -1,17 +1,16 @@
 {
   "name": "EPL_Match_Tracker_R",
-  "type": "shiny-app",
+  "type": "shiny",
   "r": {
-    "version": ""
+    "version": "4.4.0"
   },
   "packages": [
-    { "name": "shiny", "version": "*" },
-    { "name": "DT", "version": "*" },
-    { "name": "ggplot2", "version": "*" },
-    { "name": "dplyr", "version": "*" },
-    { "name": "lubridate", "version": "*" },
-    { "name": "tidyr", "version": "*" }
+    { "name": "shiny" },
+    { "name": "DT" },
+    { "name": "ggplot2" },
+    { "name": "dplyr" },
+    { "name": "lubridate" },
+    { "name": "tidyr" }
   ],
-  "repository": "https://cran.rstudio.com",
-  "generatedBy": "dependencies.R"
+  "repository": "https://cran.rstudio.com"
 }
