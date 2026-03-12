@@ -12,7 +12,7 @@ Built with: R · Shiny · ggplot
 
 ### Live Dashboard
 
-https://your-posit-connect.example/app
+https://019ce440-2ac5-1247-22c5-5cb478b5f8cf.share.connect.posit.cloud/
 
 ---
 
@@ -32,8 +32,6 @@ cd EPL_Match_Tracker_R
 ```
 
 ### 2. Install R packages
-
-From an R console run:
 
 ```bash
 Rscript -e 'install.packages(c("shiny", "DT", "ggplot2", "dplyr", "lubridate", "tidyr"), repos="https://cran.rstudio.com")'
